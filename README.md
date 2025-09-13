@@ -16,4 +16,4 @@ The player uses *X*, and the game logic handles the turns on a 3x3 grid.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-c.git
+   git clone https://github.com/vikash-kun/TIC-TAC-TOE-C.git
